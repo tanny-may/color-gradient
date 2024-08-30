@@ -23,7 +23,7 @@
 ## Запуск проекта
 1. Клонировать репозиторий
    ```sh
-   git clone https://github.com/tanny-may/progress-bar
+   git clone https://github.com/tanny-may/color-gradient
    ```
 2. Установить пакеты
    ```sh
