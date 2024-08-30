@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 23px;
+    flex-wrap: wrap;
 }
 
 .input {
@@ -22,11 +23,17 @@
     color: black;
     border: 0px;
     margin-right: 20px;
+    margin-bottom: 10px;
     border: 1px solid grey;
 }
 
 .input:last-child {
     margin-right: 0;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly
 }
 
 .button {
